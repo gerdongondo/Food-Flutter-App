@@ -4,6 +4,6 @@ Développement Flutter : Création d'une interface utilisateur moderne et réact
 Intégration API REST : Conception d'une architecture robuste pour la communication entre l'application et les services backend, garantissant une gestion efficace des données de recette.
 
 
-![Uploading github.png…]()
+
 
 
